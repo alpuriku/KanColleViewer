@@ -807,7 +807,7 @@ GPU: Slow! GPU optimization for tablets.</value>
     <value>Downloads translations only for selected UI language!</value>
   </data>
   <data name="ShipCatalog_AdditionalStats" xml:space="preserve">
-    <value>Show additional stats</value>
+    <value>追加情報を表示する</value>
   </data>
   <data name="ShipCatalog_Column_AntiAir" xml:space="preserve">
     <value>対空</value>
@@ -819,7 +819,7 @@ GPU: Slow! GPU optimization for tablets.</value>
     <value>対潜</value>
   </data>
   <data name="ShipCatalog_Column_Condition" xml:space="preserve">
-    <value>Cond.</value>
+    <value>疲労</value>
   </data>
   <data name="ShipCatalog_Column_Equipped" xml:space="preserve">
     <value>装備</value>
@@ -954,7 +954,7 @@ GPU: Slow! GPU optimization for tablets.</value>
     <value>CatalogID</value>
   </data>
   <data name="ShipCatalog_SortBy_Condition" xml:space="preserve">
-    <value>Condition 値</value>
+    <value>疲労値</value>
   </data>
   <data name="ShipCatalog_SortBy_Experience" xml:space="preserve">
     <value>次のレベルまでの経験値</value>
@@ -1047,7 +1047,7 @@ GPU: Slow! GPU optimization for tablets.</value>
     <value>表示の更新</value>
   </data>
   <data name="SlotItemCatalog_ShowStats" xml:space="preserve">
-    <value>Show item stats</value>
+    <value>装備ステータス</value>
   </data>
   <data name="SlotItemCatalog_WindowTitle" xml:space="preserve">
     <value>所有装備一覧</value>
@@ -1083,46 +1083,46 @@ GPU: Slow! GPU optimization for tablets.</value>
     <value>艦隊は出撃中です！</value>
   </data>
   <data name="Stats_Accuracy" xml:space="preserve">
-    <value>Accuracy</value>
+    <value>命中</value>
   </data>
   <data name="Stats_AntiAir" xml:space="preserve">
-    <value>Anti-Air</value>
+    <value>対空</value>
   </data>
   <data name="Stats_AntiSub" xml:space="preserve">
-    <value>Anti-Sub</value>
+    <value>対潜</value>
   </data>
   <data name="Stats_Armor" xml:space="preserve">
-    <value>Armor</value>
+    <value>装甲</value>
   </data>
   <data name="Stats_AttackRange" xml:space="preserve">
-    <value>Attack Rng</value>
+    <value>射程</value>
   </data>
   <data name="Stats_DiveBomb" xml:space="preserve">
-    <value>Bombing</value>
+    <value>搭載</value>
   </data>
   <data name="Stats_Evasion" xml:space="preserve">
-    <value>Evasion</value>
+    <value>回避</value>
   </data>
   <data name="Stats_Firepower" xml:space="preserve">
-    <value>Firepower</value>
+    <value>火力</value>
   </data>
   <data name="Stats_Health" xml:space="preserve">
-    <value>Health</value>
+    <value>耐久</value>
   </data>
   <data name="Stats_Luck" xml:space="preserve">
-    <value>Luck</value>
+    <value>運</value>
   </data>
   <data name="Stats_RemodelLevel" xml:space="preserve">
-    <value>Next Remodel</value>
+    <value>改造レベル</value>
   </data>
   <data name="Stats_SightRange" xml:space="preserve">
-    <value>Sight Rng</value>
+    <value>索敵</value>
   </data>
   <data name="Stats_Speed" xml:space="preserve">
-    <value>Speed</value>
+    <value>速力</value>
   </data>
   <data name="Stats_Torpedo" xml:space="preserve">
-    <value>Torpedo</value>
+    <value>雷装</value>
   </data>
   <data name="System_Flash_Not_Installed_Caption" xml:space="preserve">
     <value>Adobe Flash ActiveX Not Found</value>
@@ -1308,7 +1308,7 @@ HTTP プロトコルの通信は自動構成も含め「インターネット �
     <value>熟練度</value>
   </data>
   <data name="SlotItemCatalog_Stats" xml:space="preserve">
-    <value>Stats</value>
+    <value>ステータス</value>
   </data>
   <data name="SlotItemCatalog_Total" xml:space="preserve">
     <value>合計</value>
@@ -1455,7 +1455,7 @@ HTTP プロトコルの通信は自動構成も含め「インターネット �
     <value>艦隊編成は正常です</value>
   </data>
   <data name="ShipCatalog_Filter_Misc_Condition" xml:space="preserve">
-    <value>condition</value>
+    <value>疲労</value>
   </data>
   <data name="ShipCatalog_Filter_Misc_ConditionAbove50" xml:space="preserve">
     <value>50 以上</value>

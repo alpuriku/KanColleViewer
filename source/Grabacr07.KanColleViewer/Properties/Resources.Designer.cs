@@ -2771,7 +2771,7 @@ namespace Grabacr07.KanColleViewer.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Show additional stats.
+        ///   Looks up a localized string similar to 追加情報を表示する.
         /// </summary>
         public static string ShipCatalog_AdditionalStats {
             get {
@@ -2816,7 +2816,7 @@ namespace Grabacr07.KanColleViewer.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Cond..
+        ///   Looks up a localized string similar to 疲労.
         /// </summary>
         public static string ShipCatalog_Column_Condition {
             get {
@@ -3041,7 +3041,7 @@ namespace Grabacr07.KanColleViewer.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to condition.
+        ///   Looks up a localized string similar to 疲労.
         /// </summary>
         public static string ShipCatalog_Filter_Misc_Condition {
             get {
@@ -3383,7 +3383,7 @@ namespace Grabacr07.KanColleViewer.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Condition 値.
+        ///   Looks up a localized string similar to 疲労値.
         /// </summary>
         public static string ShipCatalog_SortBy_Condition {
             get {
@@ -3599,7 +3599,7 @@ namespace Grabacr07.KanColleViewer.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Show item stats.
+        ///   Looks up a localized string similar to 装備ステータス.
         /// </summary>
         public static string SlotItemCatalog_ShowStats {
             get {
@@ -3617,7 +3617,7 @@ namespace Grabacr07.KanColleViewer.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Stats.
+        ///   Looks up a localized string similar to ステータス.
         /// </summary>
         public static string SlotItemCatalog_Stats {
             get {
@@ -3779,7 +3779,7 @@ namespace Grabacr07.KanColleViewer.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Accuracy.
+        ///   Looks up a localized string similar to 命中.
         /// </summary>
         public static string Stats_Accuracy {
             get {
@@ -3788,7 +3788,7 @@ namespace Grabacr07.KanColleViewer.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Anti-Air.
+        ///   Looks up a localized string similar to 対空.
         /// </summary>
         public static string Stats_AntiAir {
             get {
@@ -3797,7 +3797,7 @@ namespace Grabacr07.KanColleViewer.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Anti-Sub.
+        ///   Looks up a localized string similar to 対潜.
         /// </summary>
         public static string Stats_AntiSub {
             get {
@@ -3806,7 +3806,7 @@ namespace Grabacr07.KanColleViewer.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Armor.
+        ///   Looks up a localized string similar to 装甲.
         /// </summary>
         public static string Stats_Armor {
             get {
@@ -3815,7 +3815,7 @@ namespace Grabacr07.KanColleViewer.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Attack Rng.
+        ///   Looks up a localized string similar to 射程.
         /// </summary>
         public static string Stats_AttackRange {
             get {
@@ -3824,7 +3824,7 @@ namespace Grabacr07.KanColleViewer.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Bombing.
+        ///   Looks up a localized string similar to 搭載.
         /// </summary>
         public static string Stats_DiveBomb {
             get {
@@ -3833,7 +3833,7 @@ namespace Grabacr07.KanColleViewer.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Evasion.
+        ///   Looks up a localized string similar to 回避.
         /// </summary>
         public static string Stats_Evasion {
             get {
@@ -3842,7 +3842,7 @@ namespace Grabacr07.KanColleViewer.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Firepower.
+        ///   Looks up a localized string similar to 火力.
         /// </summary>
         public static string Stats_Firepower {
             get {
@@ -3851,7 +3851,7 @@ namespace Grabacr07.KanColleViewer.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Health.
+        ///   Looks up a localized string similar to 耐久.
         /// </summary>
         public static string Stats_Health {
             get {
@@ -3860,7 +3860,7 @@ namespace Grabacr07.KanColleViewer.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Luck.
+        ///   Looks up a localized string similar to 運.
         /// </summary>
         public static string Stats_Luck {
             get {
@@ -3869,7 +3869,7 @@ namespace Grabacr07.KanColleViewer.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Next Remodel.
+        ///   Looks up a localized string similar to 改造レベル.
         /// </summary>
         public static string Stats_RemodelLevel {
             get {
@@ -3878,7 +3878,7 @@ namespace Grabacr07.KanColleViewer.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Sight Rng.
+        ///   Looks up a localized string similar to 索敵.
         /// </summary>
         public static string Stats_SightRange {
             get {
@@ -3887,7 +3887,7 @@ namespace Grabacr07.KanColleViewer.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Speed.
+        ///   Looks up a localized string similar to 速力.
         /// </summary>
         public static string Stats_Speed {
             get {
@@ -3896,7 +3896,7 @@ namespace Grabacr07.KanColleViewer.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Torpedo.
+        ///   Looks up a localized string similar to 雷装.
         /// </summary>
         public static string Stats_Torpedo {
             get {
