@@ -556,11 +556,29 @@ namespace Grabacr07.KanColleViewer.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 高速艦隊.
+        ///   Looks up a localized string similar to 高速.
         /// </summary>
         public static string Fleets_Speed_Fast {
             get {
                 return ResourceManager.GetString("Fleets_Speed_Fast", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 高速+.
+        /// </summary>
+        public static string Fleets_Speed_Faster {
+            get {
+                return ResourceManager.GetString("Fleets_Speed_Faster", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 最速.
+        /// </summary>
+        public static string Fleets_Speed_Fastest {
+            get {
+                return ResourceManager.GetString("Fleets_Speed_Fastest", resourceCulture);
             }
         }
         
@@ -574,7 +592,7 @@ namespace Grabacr07.KanColleViewer.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 低速艦隊.
+        ///   Looks up a localized string similar to 低速.
         /// </summary>
         public static string Fleets_Speed_Slow {
             get {
@@ -2897,6 +2915,24 @@ namespace Grabacr07.KanColleViewer.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to 速力.
+        /// </summary>
+        public static string ShipCatalog_Column_Speed {
+            get {
+                return ResourceManager.GetString("ShipCatalog_Column_Speed", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 装備によるステータス上昇を含んだ値です.
+        /// </summary>
+        public static string ShipCatalog_Column_Speed_ToolTip {
+            get {
+                return ResourceManager.GetString("ShipCatalog_Column_Speed_ToolTip", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to 雷装.
         /// </summary>
         public static string ShipCatalog_Column_Torpedo {
@@ -3235,6 +3271,24 @@ namespace Grabacr07.KanColleViewer.Properties {
         public static string ShipCatalog_Filter_Misc_SpeedFast {
             get {
                 return ResourceManager.GetString("ShipCatalog_Filter_Misc_SpeedFast", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 高速+.
+        /// </summary>
+        public static string ShipCatalog_Filter_Misc_SpeedFaster {
+            get {
+                return ResourceManager.GetString("ShipCatalog_Filter_Misc_SpeedFaster", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 最速.
+        /// </summary>
+        public static string ShipCatalog_Filter_Misc_SpeedFastest {
+            get {
+                return ResourceManager.GetString("ShipCatalog_Filter_Misc_SpeedFastest", resourceCulture);
             }
         }
         

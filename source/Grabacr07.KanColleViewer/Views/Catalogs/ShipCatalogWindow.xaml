@@ -351,13 +351,13 @@
 										<Run Text=":" />
 									</TextBlock>
 									<WrapPanel Grid.Column="2">
-										<CheckBox Content="最速"
+                                        <CheckBox Content="{Binding Resources.ShipCatalog_Filter_Misc_SpeedFastest, Source={x:Static models:ResourceService.Current}, Mode=OneWay}"
 												  IsChecked="{Binding Fastest, Mode=TwoWay}" />
-										<CheckBox Content="高速+"
+                                        <CheckBox Content="{Binding Resources.ShipCatalog_Filter_Misc_SpeedFaster, Source={x:Static models:ResourceService.Current}, Mode=OneWay}"
 												  IsChecked="{Binding Faster, Mode=TwoWay}" />
-										<CheckBox Content="高速"
+                                        <CheckBox Content="{Binding Resources.ShipCatalog_Filter_Misc_SpeedFast, Source={x:Static models:ResourceService.Current}, Mode=OneWay}"
 												  IsChecked="{Binding Fast, Mode=TwoWay}" />
-										<CheckBox Content="低速"
+                                        <CheckBox Content="{Binding Resources.ShipCatalog_Filter_Misc_SpeedSlow, Source={x:Static models:ResourceService.Current}, Mode=OneWay}"
 												  IsChecked="{Binding Slow, Mode=TwoWay}" />
 									</WrapPanel>
 								</Grid>
@@ -900,8 +900,8 @@
 								<GridViewColumn.Header>
 									<metro2:SortButton MethodName="Sort"
 													   MethodParameter="{x:Static viewModels:ShipCatalogSortWorker.ASWColumn}">
-										<TextBlock Text="速力"
-												   ToolTip="装備によるステータス上昇を含んだ値です" />
+                                        <TextBlock Text="{Binding Resources.ShipCatalog_Column_Speed, Source={x:Static models:ResourceService.Current}, Mode=OneWay}"
+												   ToolTip="{Binding Resources.ShipCatalog_Column_Speed_ToolTip, Source={x:Static models:ResourceService.Current}, Mode=OneWay}" />
 									</metro2:SortButton>
 								</GridViewColumn.Header>
 								<GridViewColumn.CellTemplate>

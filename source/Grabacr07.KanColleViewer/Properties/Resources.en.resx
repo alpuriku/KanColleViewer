@@ -478,13 +478,13 @@
     <value>Level</value>
   </data>
   <data name="Fleets_Speed_Fast" xml:space="preserve">
-    <value>Fast Fleet</value>
+    <value>Fast </value>
   </data>
   <data name="Fleets_Speed_Hybrid" xml:space="preserve">
     <value>Hybrid speed fleet</value>
   </data>
   <data name="Fleets_Speed_Slow" xml:space="preserve">
-    <value>Slow Fleet</value>
+    <value>Slow </value>
   </data>
   <data name="Fleets_Total" xml:space="preserve">
     <value>Total</value>
@@ -1469,6 +1469,24 @@ Small Radar LoS × (1.00) + Large Radar LoS × (0.99) +
     <value>Fleet #2</value>
   </data>
   <data name="ShipCatalog_Column_ASW_Tooltip" xml:space="preserve">
+    <value>Includes stat bonuses from the equipment</value>
+  </data>
+  <data name="Fleets_Speed_Faster" xml:space="preserve">
+    <value>Faster </value>
+  </data>
+  <data name="Fleets_Speed_Fastest" xml:space="preserve">
+    <value>Fastest </value>
+  </data>
+  <data name="ShipCatalog_Filter_Misc_SpeedFaster" xml:space="preserve">
+    <value>Faster</value>
+  </data>
+  <data name="ShipCatalog_Filter_Misc_SpeedFastest" xml:space="preserve">
+    <value>Fastest</value>
+  </data>
+  <data name="ShipCatalog_Column_Speed" xml:space="preserve">
+    <value>Speed</value>
+  </data>
+  <data name="ShipCatalog_Column_Speed_ToolTip" xml:space="preserve">
     <value>Includes stat bonuses from the equipment</value>
   </data>
 </root>
